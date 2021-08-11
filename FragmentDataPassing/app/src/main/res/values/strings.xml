@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentDataPassing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="form_fragment">Form Fragment</string>
+    <string name="enter_name">Enter Name...</string>
+    <string name="enter_email">Enter Email...</string>
+    <string name="enter_mobile_number">Enter Mobile Number...</string>
+    <string name="submit">Submit</string>
+    <string name="show_data">Show Data</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="mobile">Mobile:</string>
+    <string name="add_data">Add Data</string>
+</resources>
