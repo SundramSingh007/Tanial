@@ -1,4 +1,4 @@
-package com.sundram.pokempractive;
+package com.sundram.pokemonpractive;
 
 import org.junit.Test;
 

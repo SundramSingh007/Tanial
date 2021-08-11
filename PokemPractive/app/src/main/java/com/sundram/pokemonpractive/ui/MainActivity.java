@@ -1,10 +1,10 @@
-package com.sundram.pokempractive.ui;
+package com.sundram.pokemonpractive.ui;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.sundram.pokempractive.R;
+import com.sundram.pokemonpractive.R;
 
 public class MainActivity extends AppCompatActivity {
 
